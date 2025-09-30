@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = {َVQR
+title = VQR
 
 # (str) Package name
 package.name = VQR
@@ -90,3 +90,4 @@ logcat_filter = *:S python:D
 
 # (bool) Automatically accept SDK licenses
 android.accept_sdk_license = True
+
