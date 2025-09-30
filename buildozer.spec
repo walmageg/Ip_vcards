@@ -34,9 +34,6 @@ fullscreen = 0
 log_level = 2
 warn_on_root = 1
 
-# موافقة تلقائية على رخص Android SDK
-android.accept_sdk_license = True
-
 # نسخة API و SDK
 android.api = 34
 android.sdk = 34
@@ -50,5 +47,6 @@ android.build_tools = 34.0.0
 # منع استخدام نسخ قديمة
 p4a.branch = master
 android.accept_sdk_license = True
+
 
 
